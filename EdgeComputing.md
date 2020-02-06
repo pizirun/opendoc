@@ -56,12 +56,12 @@ OpenFog参考体系结构深入挖掘了可能涉及硅制造商、系统设计�
 
 
 参考信息  
-[ETSI - Multi-accessEdge Computing] (https://www.etsi.org/technologies-clusters/technologies/multi-access-edge-computing)  
-[OpenFog Consortium] (https://www.openfogconsortium.org/)  
-[StarlingX] (https://www.starlingx.io/)  
-[Airship] (https://www.airshipit.org/)  
-[Akrainoh] (ttps://www.akraino.org/)  
-[EdgeXFoundry] (https://www.edgexfoundry.org/)  
+[ETSI - Multi-accessEdge Computing](https://www.etsi.org/technologies-clusters/technologies/multi-access-edge-computing)  
+[OpenFog Consortium](https://www.openfogconsortium.org/)  
+[StarlingX](https://www.starlingx.io/)  
+[Airship](https://www.airshipit.org/)  
+[Akrainoh](ttps://www.akraino.org/)  
+[EdgeXFoundry](https://www.edgexfoundry.org/)  
 
 
 
