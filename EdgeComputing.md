@@ -55,13 +55,13 @@ Fog计算是一个系统级的水平架构，它将计算、存储、控制和�
 OpenFog参考体系结构深入挖掘了可能涉及硅制造商、系统设计师、系统集成商、软件制造商和移动边缘应用程序开发人员的主题
 
 
-参考信息
-[ETSI - Multi-accessEdge Computing] (https://www.etsi.org/technologies-clusters/technologies/multi-access-edge-computing)
-[OpenFog Consortium] (https://www.openfogconsortium.org/)
-[StarlingX] (https://www.starlingx.io/)
-[Airship] (https://www.airshipit.org/)
-[Akrainoh] (ttps://www.akraino.org/)
-[EdgeXFoundry] (https://www.edgexfoundry.org/)
+参考信息  
+[ETSI - Multi-accessEdge Computing] (https://www.etsi.org/technologies-clusters/technologies/multi-access-edge-computing)  
+[OpenFog Consortium] (https://www.openfogconsortium.org/)  
+[StarlingX] (https://www.starlingx.io/)  
+[Airship] (https://www.airshipit.org/)  
+[Akrainoh] (ttps://www.akraino.org/)  
+[EdgeXFoundry] (https://www.edgexfoundry.org/)  
 
 
 
