@@ -55,6 +55,12 @@ Fog计算是一个系统级的水平架构，它将计算、存储、控制和�
 OpenFog参考体系结构深入挖掘了可能涉及硅制造商、系统设计师、系统集成商、软件制造商和移动边缘应用程序开发人员的主题
 
 
+## Edge Architecture 原理和范式
+### 相关工作
+开发可扩展的体系结构，从封闭系统向开放系统转变，处理数据感知、存储、处理和操作中涉及的隐私和道德问题，设计交互协议和自动化管理。
+
+
+
 参考信息  
 [ETSI - Multi-accessEdge Computing](https://www.etsi.org/technologies-clusters/technologies/multi-access-edge-computing)  
 [OpenFog Consortium](https://www.openfogconsortium.org/)  
