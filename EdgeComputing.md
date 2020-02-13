@@ -50,7 +50,14 @@ EdgeX Foundry的目标包括：
 
 ### Fog计算
 Fog计算是一个系统级的水平架构，它将计算、存储、控制和网络的资源和服务沿着云分布到任何地方。它支持多个行业垂直和应用程序域，使服务和应用程序能够更靠近数据生成源进行分发，并从事物、网络边缘、云和多个协议层进行扩展。 
-1. Security2. Scalability3. Openness4. Autonomy5. Programmability6. Reliability, Availability, and Serviceability (RAS)7. Agility8. Hierarchy
+1. Security
+2. Scalability
+3. Openness
+4. Autonomy
+5. Programmability
+6. Reliability, Availability, and Serviceability (RAS)
+7. Agility
+8. Hierarchy
 
 OpenFog参考体系结构深入挖掘了可能涉及硅制造商、系统设计师、系统集成商、软件制造商和移动边缘应用程序开发人员的主题
 
